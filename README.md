@@ -1,2 +1,129 @@
-# NesneDayaliProgramlama1FinalProjesi
-Java ile geliştirilen konsol tabanlı bir uçak bileti rezervasyon sistemi. Kullanıcılar uçuşları listeleyebilir, uçuş kodu ile rezervasyon yapabilir ve önceki rezervasyonlarını görüntüleyebilir.
+# 🛫 Uçak Bilet Rezervasyon Sistemi
+
+Bu proje, uçak bileti rezervasyonu için konsol tabanlı bir sistemdir. Kullanıcılar uçuşları listeleyebilir, kendi bilgileriyle rezervasyon oluşturabilir ve daha önce yapılan rezervasyonları görüntüleyebilirler.
+
+## 👨‍💻 Proje Sahibi
+
+- ****Ad Soyad:**** Samet ERDOĞAN
+
+- ****Öğrenci Numarası:**** 20230108039
+
+- ****Bölüm:**** Bilgisayar Programcılığı
+
+- ****Ders Adı:**** Nesneye Dayalı Programlama 1
+
+- ****Ders Kodu:**** BIP1026
+
+- ****Öğretim Görevlisi:**** Emrah SARIÇİÇEK
+
+- ****Teslim Tarihi:**** 23/05/2025
+
+## 📌 Proje Hakkında
+
+Bu Java uygulaması, uçuş ve rezervasyon yönetimini simüle eden bir sistemdir. Uçuşlar ve rezervasyonlar CSV dosyalarında saklanır. Sistem başlangıçta tüm uçuşları yükler ve kullanıcıya dört temel işlem sunar:
+
+- Uçuşları listeleme
+
+- Rezervasyon yapma
+
+- Rezervasyonları listeleme
+
+- Programdan çıkış
+
+### Başlangıç Verileri:
+
+- `ucuslar.csv`: 3-5 adet önceden tanımlı uçuş
+
+- `rezervasyonlar.csv`: Rezervasyon kayıtlarının tutulduğu dosya
+
+## 🚀 Özellikler
+
+### ✈️ Uçuş Listeleme
+
+Tüm uçuşlar `ucuslar.csv` dosyasından okunur ve kalkış-varış, tarih, uçuş kodu ve kalan koltuk bilgileri ile listelenir.
+
+### 🧾 Rezervasyon Yapma
+
+Kullanıcıdan TC Kimlik Numarası, ad, soyad ve uçuş kodu alınarak `rezervasyonlar.csv` dosyasına yeni kayıt eklenir.
+
+### 📋 Rezervasyon Listeleme
+
+Mevcut rezervasyonlar `rezervasyonlar.csv` dosyasından okunarak listelenir.
+
+### 🧠 Hata Kontrolleri
+
+Geçersiz girişler veya uçuş kodu bulunamazsa kullanıcıya uygun uyarılar gösterilir.
+
+## 📁 Proje Yapısı
+
+src/
+
+├── kodlar/
+
+│ ├── Main.java
+
+│ ├── ucus_Islemleri.java
+
+│ └── rezervasyon_Islemleri.java
+
+└── csvDosyalari/
+
+├── ucuslar.csv
+
+└── rezervasyonlar.csv
+
+markdown
+
+Kopyala
+
+Düzenle
+
+## ⚙️ Gereksinimler
+
+- Java 8 veya üzeri
+
+- IntelliJ IDEA, Eclipse, VSCode gibi bir Java IDE'si
+
+- `src/csvDosyalari/` dizininde uçuş ve rezervasyon CSV dosyaları
+
+## ▶️ Nasıl Çalıştırılır?
+
+1. Bu repoyu klonlayın veya indirin:
+
+```bash
+
+git clone [repo-url]
+
+Projeyi bir Java IDE'sinde açın.
+
+src/csvDosyalari/ucuslar.csv ve rezervasyonlar.csv dosyalarının mevcut olduğundan emin olun.
+
+Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+
+✅ Örnek Kullanım
+
+plaintext
+
+Kopyala
+
+Düzenle
+
+1 - Uçuşları Listele
+
+2 - Rezervasyon Yap
+
+3 - Rezervasyonları Listele
+
+4 - Çıkış
+
+Seçim: 2
+
+TC Kimlik Numaranız: 12345678901
+
+Adınız: Ali
+
+Soyadınız: Demir
+
+Uçuş Kodu (Örnek: TK2320): TK2320
+
+Rezervasyon başarıyla oluşturuldu!
