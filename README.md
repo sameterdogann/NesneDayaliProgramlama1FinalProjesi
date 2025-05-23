@@ -54,26 +54,6 @@ Mevcut rezervasyonlar `rezervasyonlar.csv` dosyasından okunarak listelenir.
 
 Geçersiz girişler veya uçuş kodu bulunamazsa kullanıcıya uygun uyarılar gösterilir.
 
-## 📁 Proje Yapısı
-
-src/
-
-├── kodlar/
-
-│ ├── Main.java
-
-│ ├── ucus_Islemleri.java
-
-│ └── rezervasyon_Islemleri.java
-
-└── csvDosyalari/
-
-├── ucuslar.csv
-
-└── rezervasyonlar.csv
-
-
-
 ## ⚙️ Gereksinimler
 
 - Java 8 veya üzeri
