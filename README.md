@@ -16,7 +16,7 @@ Bu proje, uçak bileti rezervasyonu için konsol tabanlı bir sistemdir. Kullan�
 
 - ****Öğretim Görevlisi:**** Emrah SARIÇİÇEK
 
-- ****Teslim Tarihi:**** 23/05/2025
+- ****Teslim Tarihi:**** 25/05/2025
 
 ## 📌 Proje Hakkında
 
@@ -72,17 +72,13 @@ src/
 
 └── rezervasyonlar.csv
 
-markdown
 
-Kopyala
-
-Düzenle
 
 ## ⚙️ Gereksinimler
 
 - Java 8 veya üzeri
 
-- IntelliJ IDEA, Eclipse, VSCode gibi bir Java IDE'si
+- Tavsiye Edilen IDE : IntelliJ IDEA
 
 - `src/csvDosyalari/` dizininde uçuş ve rezervasyon CSV dosyaları
 
@@ -120,9 +116,9 @@ Seçim: 2
 
 TC Kimlik Numaranız: 12345678901
 
-Adınız: Ali
+Adınız: SAMET
 
-Soyadınız: Demir
+Soyadınız: ERDOĞAN
 
 Uçuş Kodu (Örnek: TK2320): TK2320
 
