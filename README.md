@@ -74,7 +74,7 @@ Projeyi bir Java IDE'sinde açın.
 
 src/csvDosyalari/ucuslar.csv ve rezervasyonlar.csv dosyalarının mevcut olduğundan emin olun.
 
-Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+src klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
 
 ✅ Örnek Kullanım
 
