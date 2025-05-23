@@ -1,0 +1,9 @@
+[
+    {"ucusKodu": "TK2320", "kalkis": "IST", "varis": "LHR", "ucakId": "U001"},
+    {"ucusKodu": "PC1621", "kalkis": "SAW", "varis": "AYT", "ucakId": "U002"},
+    {"ucusKodu": "TK2134", "kalkis": "IST", "varis": "ADB", "ucakId": "U003"},
+    {"ucusKodu": "PC932", "kalkis": "ESB", "varis": "SAW", "ucakId": "U004"},
+    {"ucusKodu": "TK1852", "kalkis": "AYT", "varis": "IST", "ucakId": "U005"},
+    {"ucusKodu": "PC2023", "kalkis": "ADB", "varis": "ESB", "ucakId": "U006"},
+    {"ucusKodu": "TK3001", "kalkis": "IST", "varis": "ESB", "ucakId": "U007"},
+]

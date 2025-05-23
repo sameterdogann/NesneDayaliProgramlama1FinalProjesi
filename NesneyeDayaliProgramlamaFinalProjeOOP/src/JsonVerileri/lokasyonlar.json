@@ -1,0 +1,9 @@
+[
+    {"kod": "IST", "sehir": "İstanbul Havalimanı"},
+    {"kod": "SAW", "sehir": "İstanbul (Sabiha Gökçen)"},
+    {"kod": "ADB", "sehir": "İzmir"},
+    {"kod": "AYT", "sehir": "Antalya"},
+    {"kod": "ESB", "sehir": "Ankara (Esenboğa)"},
+    {"kod": "LHR", "sehir": "Londra (Heathrow)"},
+    {"kod": "JFK", "sehir": "New York (John F. Kennedy)"}
+]

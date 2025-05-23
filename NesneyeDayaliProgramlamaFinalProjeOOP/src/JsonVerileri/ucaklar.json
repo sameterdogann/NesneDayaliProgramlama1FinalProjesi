@@ -1,0 +1,11 @@
+[
+  {"id": "U001", "model": "Boeing 737", "kapasite": 180},
+  {"id": "U002", "model": "Airbus A320", "kapasite": 160},
+  {"id": "U003", "model": "Boeing 787 ", "kapasite": 290},
+  {"id": "U004", "model": "Airbus A350", "kapasite": 300},
+  {"id": "U005", "model": "Boeing 777", "kapasite": 350},
+  {"id": "U006", "model": "Airbus A380", "kapasite": 500},
+    {"id": "U007", "model": "Boeing 747", "kapasite": 400},
+    {"id": "U008", "model": "Airbus A330", "kapasite": 250}
+
+]
