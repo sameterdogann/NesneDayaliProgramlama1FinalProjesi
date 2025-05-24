@@ -64,13 +64,14 @@ Geçersiz girişler veya uçuş kodu bulunamazsa kullanıcıya uygun uyarılar g
 
 ## ▶️ Nasıl Çalıştırılır?
 
-1. Bu repoyu klonlayın veya indirin:
+1. Bu repoyu indirin:
 
 Projeyi bir Java IDE'sinde açın (tavsiyem:IntelliJ IDEA).
 
 src/csvDosyalari/ucuslar.csv ve rezervasyonlar.csv dosyalarının mevcut olduğundan emin olun.
 
-Zip olarak indirdiyseniz veya klonladıysanız 'src' klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+Zip olarak indirdiğiniz 'src' klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+(NOT: Eğer çalışmazsa Main-2 adlı branchdeki kodları indirip kulanın veya mevcut dosyada 'Main.java' adlı dosyayı 'src/kodlar' klasörüne atınız )
 
 ✅ Örnek Kullanım
 
