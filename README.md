@@ -66,23 +66,13 @@ Geçersiz girişler veya uçuş kodu bulunamazsa kullanıcıya uygun uyarılar g
 
 1. Bu repoyu klonlayın veya indirin:
 
-```bash
-
-git clone [repo-url]
-
-Projeyi bir Java IDE'sinde açın.
+Projeyi bir Java IDE'sinde açın (tavsiyem:IntelliJ IDEA).
 
 src/csvDosyalari/ucuslar.csv ve rezervasyonlar.csv dosyalarının mevcut olduğundan emin olun.
 
-src klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+Zip olarak indirdiyseniz veya klonladıysanız 'src' klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
 
 ✅ Örnek Kullanım
-
-plaintext
-
-Kopyala
-
-Düzenle
 
 1 - Uçuşları Listele
 
