@@ -70,7 +70,7 @@ Projeyi bir Java IDE'sinde açın (tavsiyem:IntelliJ IDEA).
 
 src/csvDosyalari/ucuslar.csv ve rezervasyonlar.csv dosyalarının mevcut olduğundan emin olun.
 
-Zip olarak indirdiyseniz veya klonladıysanız 'src' klasörünün içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
+Zip olarak indirdiyseniz veya klonladıysanız 'src' klasörünün içindeki kodlar klasörüne girin onun içindeki Main.java dosyasını çalıştırın ve konsoldan işlemleri yönetin.
 
 ✅ Örnek Kullanım
 
